@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ডাক ও টেলিযোগাযোগ বিভাগ Official App</string>
+
+    <string name="title_bistarito">বিস্তারিত</string>
+    <string name="title_telejogajog">টেলিযোগাযোগ</string>
+    <string name="title_jogajog">যোগাযোগ</string>
+
+    <string name="jogajog_title">যোগাযোগ</string>
+    <string name="jogajog_details">
+        ডাক ও টেলিযোগাযোগ বিভাগ \n
+       গনপ্রজাতন্ত্রী বাংলাদেশ সরকার \n
+           বাংলাদেশ সচিবালয় \n
+   আব্দুল গনি রোড, ঢাকা-১০০০, বাংলাদেশ \n
+         ফোন +৮৮-০২-৯৫৭১৪৪৬ \n
+       মেইলঃ info@ptd.gov.bd \n
+             ফ্যাক্স  ৯৫৭৪৪৪৫ \n
+
+    </string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
