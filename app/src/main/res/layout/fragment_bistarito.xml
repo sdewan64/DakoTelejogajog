@@ -16,6 +16,7 @@
             android:text="@string/bistarito_heading"
             android:layout_gravity="top|center"
             android:gravity="center"
+            android:layout_marginBottom="@dimen/extra_space_after_heading"
             />
 
         <LinearLayout
