@@ -14,8 +14,14 @@
          ফোন +৮৮-০২-৯৫৭১৪৪৬ \n
        মেইলঃ info@ptd.gov.bd \n
              ফ্যাক্স  ৯৫৭৪৪৪৫ \n
-
     </string>
+
+    <string name="bistarito_heading">ডাক ও টেলিযোগাযোগ মন্ত্রনালয় সঙ্ক্রান্ত তথ্য</string>
+    <string name="bistarito_menu1">মন্ত্রনালয়ের পরিচিতি</string>
+    <string name="bistarito_menu2">মিশন</string>
+    <string name="bistarito_menu3">ভিশন</string>
+    <string name="bistarito_menu4">সাংগঠনিক কাথামো</string>
+
 
     <string name="hello_world">Hello world!</string>
 
